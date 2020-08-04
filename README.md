@@ -1,2 +1,2 @@
 # labs
-SICP CSAPP DistributedSystems
+SICP CSAPP Mit6.824 Ucore
